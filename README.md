@@ -14,9 +14,11 @@ Nous utiliserons le format .ipynb pour toute la partie de développement hors ap
 
 Les données sont disponibles à l'adresse suivante : https://www.kaggle.com/datasets/jtrofe/beer-recipes
 
-Ce jeu contient 73 861 recettes, et 23 observables qui vont du nom de la bière en question jusqu'au type de bière en passant par le taux d'alcool, l'echelle de teinte en passant par la méthode de brassage.
+Ce jeu contient 73 861 recettes, et 23 observables qui vont du nom de la bière en question jusqu'au type de bière en passant par le taux d'alcool, l'echelle de teinte ou la méthode de brassage.
 
-La documentation fournie est peu explicite, nous la préciserons par des échanges avec le maître brasseur
+Elles proviennent d'individus qui partagent leurs recettes de bières artisanales, voir brassées à la maison.
+
+La documentation fournie est peu explicite, nous la préciserons par des échanges avec le maître brasseur.
 
 Nous effectuerons des analyses exploratoires sur ce jeu de données, le traiterons en conséquence; entraînerons, optimiserons et évaluerons des modèles de Machine Learning de manière à fournir la solution la plus précise et fiable possible.
 
