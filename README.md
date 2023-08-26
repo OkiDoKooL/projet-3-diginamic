@@ -23,5 +23,51 @@ La documentation fournie est peu explicite, nous la préciserons par des échang
 Nous effectuerons des analyses exploratoires sur ce jeu de données, le traiterons en conséquence; entraînerons, optimiserons et évaluerons des modèles de Machine Learning de manière à fournir la solution la plus précise et fiable possible.
 
 
-## Méthodologie
+## Documentation
+
+**BeerID**: Un identifiant unique pour chaque bière enregistrée.
+
+**Name**: Le nom de la bière.
+
+**URL**: L'URL associée à la bière, peut-être un lien vers plus d'informations ou une source.
+
+**Style**: Le style de la bière, c'est-à-dire la catégorie ou le type auquel la bière appartient (par exemple : Pale Ale, Stout, IPA, etc.).
+
+**StyleID**: L'identifiant unique du style de bière.
+
+**Size(L)**: La taille du brassin en litres.
+
+**OG** (Original Gravity): La densité initiale du moût avant la fermentation, généralement mesurée en points de densité.
+
+**FG** (Final Gravity): La densité finale du moût après la fermentation, généralement mesurée en points de densité.
+
+**ABV** (Alcohol by Volume): Le pourcentage d'alcool par volume dans la bière, que l'on cherche à prédire.
+
+**IBU** (International Bitterness Units): Une mesure de l'amertume de la bière, influencée par la quantité de houblon utilisée, que l'on cherche à prédire
+
+**Color**: La couleur de la bière, généralement mesurée en unités de couleur.
+
+**BoilSize**: La quantité d'eau nécessaire pour l'ébullition du moût.
+
+**BoilTime**: La durée de l'ébullition du moût en minutes.
+
+**BoilGravity**: La densité du moût au début de l'ébullition.
+
+**Efficiency**: L'efficacité du processus de brassage.
+
+**MashThickness**: L'épaisseur du mélange d'empâtage.
+
+**SugarScale**: L'échelle de mesure utilisée pour le sucre.
+
+**BrewMethod**: La méthode de brassage utilisée.
+
+**PitchRate**: Le taux d'ensemencement, c'est-à-dire la quantité de levure ajoutée par rapport au volume du moût.
+
+**PrimaryTemp**: La température de fermentation primaire.
+
+**PrimingMethod**: La méthode utilisée pour la refermentation en bouteille.
+
+**PrimingAmount**: La quantité de sucre ajoutée pour la refermentation en bouteille.
+
+**UserId**: L'identifiant de l'utilisateur qui a soumis la recette de la bière.
 
