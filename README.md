@@ -35,7 +35,7 @@ Nous effectuerons des analyses exploratoires sur ce jeu de données, le traitero
 
 **StyleID**: L'identifiant unique du style de bière.
 
-**Size(L)**: La taille du brassin en litres.
+**Size(L)**: Volume de bière brassée.
 
 **OG** (Original Gravity): La densité initiale du moût avant la fermentation, généralement mesurée en points de densité.
 
@@ -47,7 +47,7 @@ Nous effectuerons des analyses exploratoires sur ce jeu de données, le traitero
 
 **Color**: La couleur de la bière, généralement mesurée en unités de couleur.
 
-**BoilSize**: La quantité d'eau nécessaire pour l'ébullition du moût.
+**BoilSize**: La quantité d'eau au moment de l'ébullition du moût.
 
 **BoilTime**: La durée de l'ébullition du moût en minutes.
 
