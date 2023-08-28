@@ -22,6 +22,10 @@ La documentation fournie est peu explicite, nous la préciserons par des échang
 
 Nous effectuerons des analyses exploratoires sur ce jeu de données, le traiterons en conséquence; entraînerons, optimiserons et évaluerons des modèles de Machine Learning de manière à fournir la solution la plus précise et fiable possible.
 
+## Livrable intermédiaire
+
+Le document .pdf correspondant au livrable intermédiaire est un complément du notebook d'exploration qui contient une analyse très détaillée et profonde de notre jeu de données.
+
 
 ## Documentation
 
